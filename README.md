@@ -1,0 +1,90 @@
+# FLOW GLOW – 24K GOLD
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.22] Yeah
+[00:09.15] Young
+[00:11.40] All we ask is trust
+[00:13.64] All they need is love
+[00:16.13] All we have is we
+[00:17.67] All we need is us
+[00:20.11] I done seen the light
+[00:22.14] And my memories is such
+[00:23.82] I prepared for the pressure
+[00:26.24] I prepared for the pressure
+[00:28.61] I walk in the steps
+[00:30.25] I don't know weather
+[00:32.79] I look in the sky
+[00:34.90] It's me in the flesh
+[00:37.29] Yes
+[00:38.79] 
+[00:40.49] We still alive y'all
+[00:43.45] I'm still alive
+[00:46.75] Yeah
+[00:49.39] I know we still alive but I wake up to bullets flying
+[00:52.65] Meela crying
+[00:53.61] Ambulances speeding past
+[00:55.19] Pray none of my niggas die
+[00:56.75] Smoking, thinkin' bout the past
+[00:58.33] Wishing I could press rewind
+[00:59.83] Thinkin' bout the changes
+[01:01.15] All the ways I should have read the signs
+[01:21.65] 
+[01:05.38] I'm still alive y'all
+[01:08.44] I'm still alive
+[01:12.09] Yeah
+[01:14.35] I know we still alive but I wake up to bullets flying
+[01:17.14] Homicides, my daughter crying
+[01:18.99] Ambulances speeding past
+[01:20.49] Pray none of my niggas die
+[01:21.95] Smoking, thinkin' bout the past
+[01:23.64] Wishing I could press rewind
+[01:25.12] Thinkin' bout the changes
+[01:26.33] All the ways I should have read the signs
+[01:46.83] 
+[01:28.47] Thinking bout the game and all the ways it should be redesigned
+[01:31.46] Thinking bout the pain and all the days my brother spent confined
+[01:34.55] Thinking about the stages and the ways they infiltrate the mind
+[01:37.70] 24 karat gold bleeding out this heart of mine
+[01:41.07] I just paid my mama rent, then I paid my homie bond
+[01:44.00] He got out, fucked my baby mom's, loyalty is hard to find
+[02:12.50] 
+[01:47.29] Seen the hate in niggas eyes, I know this the perfect time
+[01:50.27] 24 karat gold bleeding out this heart of mine
+[01:53.68] I was hustling for my daughter, only thing that's on my mind
+[01:56.77] Get a dollar out her college fund, you out your fuckin' mind
+[01:59.82] I'm closer to my divine, everything's revealed with time
+[02:03.12] 24 karat gold bleeding
+[02:14.12] 
+[02:05.17] All we ask is trust
+[02:07.26] All they need is love
+[02:10.04] All we have is we
+[02:11.27] All we had was us
+[02:13.61] I done seen the light
+[02:15.87] And my memories and such
+[02:27.87] 
+[02:17.59] All we ask is trust
+[02:19.96] All they need is love
+[02:22.35] All we have is we
+[02:23.83] All we need is us
+[02:26.15] I done seen the lights
+[02:28.31] And my memories and such
+[02:30.18] I prepared for the pressure
+[02:32.55] Well prepared for the pressure
+[02:34.90] I see no weapons
+[02:42.90] 
+[02:36.54] If I walk in your steps
+[02:46.58] Then I may see clear
+[02:50.01] As long as you're near
+[02:52.96] I'll have nothing to fear
+[02:55.55] If I walk in your steps
+[02:59.67] I can see clear
+[03:02.93] If I've lost my way
+[03:05.55] I've got nothing to fear
+[03:17.55] 
+[03:08.43] All you need is love (all you need is love)
+[03:14.43] All you need is love (all you need is love)
+[03:20.85] All you need is love (all you need is love)
+[03:27.01] All you need is love (all you need is love)
+```
