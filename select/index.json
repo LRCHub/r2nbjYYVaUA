@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "24K GOLD",
+  "base_artist": "FLOW GLOW",
+  "createdAt": "2026-02-25T06:45:49.386330Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "24k Gold/Sanctified",
+      "artist": "Joey Purp feat. Ravyn Lenae & Jack Red",
+      "has_synced": true,
+      "path": "select/01_24k_Gold_Sanctified_Joey_Purp_feat._Ravyn_Lenae_&_Jack_Red.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "24k Gold/Sanctified",
+      "artist": "Joey Purp",
+      "has_synced": true,
+      "path": "select/02_24k_Gold_Sanctified_Joey_Purp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "24k Gold/Sanctified (feat. Ravyn Lenae & Jabari Rayford)",
+      "artist": "Joey Purp",
+      "has_synced": true,
+      "path": "select/03_24k_Gold_Sanctified_(feat._Ravyn_Lenae_&_Jabari_Rayford)_Joey_Purp.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "24k Gold/Sanctified",
+      "artist": "Joey Purp feat. Ravyn Lenae, Jabari Rayford",
+      "has_synced": true,
+      "path": "select/04_24k_Gold_Sanctified_Joey_Purp_feat._Ravyn_Lenae,_Jabari_Rayford.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "24k Gold",
+      "artist": "Mukkta K",
+      "has_synced": false,
+      "path": "select/05_24k_Gold_Mukkta_K.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "24k Gold",
+      "artist": "Mukkta K, Emiway Bantai",
+      "has_synced": false,
+      "path": "select/06_24k_Gold_Mukkta_K,_Emiway_Bantai.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "24k Gold",
+      "artist": "Kith the Kid",
+      "has_synced": true,
+      "path": "select/07_24k_Gold_Kith_the_Kid.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "24K Gold",
+      "artist": "Malou Prytz",
+      "has_synced": false,
+      "path": "select/08_24K_Gold_Malou_Prytz.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "24K GOLD",
+      "artist": "響咲リオナ, 虎金妃笑虎, 水宮枢, 輪堂千速, 綺々羅々ヴィヴィ",
+      "has_synced": false,
+      "path": "select/09_24K_GOLD_響咲リオナ,_虎金妃笑虎,_水宮枢,_輪堂千速,_綺々羅々ヴィヴィ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "24K GOLD（Instrumental）",
+      "artist": "響咲リオナ, 虎金妃笑虎, 水宮枢, 輪堂千速, 綺々羅々ヴィヴィ",
+      "has_synced": false,
+      "path": "select/10_24K_GOLD(Instrumental)_響咲リオナ,_虎金妃笑虎,_水宮枢,_輪堂千速,_綺々羅々ヴィヴィ.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "24K GOLD",
+      "artist": "FLOW GLOW",
+      "has_synced": true,
+      "path": "select/11_24K_GOLD_FLOW_GLOW.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "24K GOLD",
+      "artist": "FLOW GLOW",
+      "has_synced": false,
+      "path": "select/pl_01_24K_GOLD_FLOW_GLOW.txt"
+    }
+  ]
+}
